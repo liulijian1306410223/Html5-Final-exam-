@@ -1,0 +1,61 @@
+body{
+    background:url(image/8.jpg) 
+}
+#on{
+	margin:0 0 0 550px;
+}
+#up{
+	margin:2px 200px 5px 200px;
+	display: none;
+}
+.left{
+    float:left;
+    width:70px;
+    font-size: 60px;
+    line-height: 70px;
+    margin:10px 0 0 20px;
+}
+.container{
+    float:left;
+    margin:5px 0 0 70px;
+}
+.right{
+    float:right;
+    width:70px;
+    font-size: 60px;
+    line-height: 70px;
+    margin:10px 0 0 20px;
+}
+.container ul {
+    list-style: none;
+    background-color: #e8e8e8;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+.container ul li {
+    display: inline-block;
+    margin: 0 20px 5px 5px;
+    background-color: #e8e8e8;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.container ul li:hover {
+    color: #345;
+    background-color: red;
+}
+
+
+.container img {
+    display: block;
+    margin: 10px auto;
+}
+
+.container p {
+    margin: 20px auto;
+    text-align: center;
+}
+

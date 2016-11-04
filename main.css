@@ -1,0 +1,22 @@
+ul{list-style: none;
+	font-size:20px;
+	line-height:20px;
+	
+}
+
+li{
+	float:left;
+	margin: 15px 20px;
+}
+
+li a{text-decoration: none;
+	color:#2F4F4F;
+}
+
+body{
+	background:url(image/2.jpg);
+}
+
+a:hover{
+background:#D3D3D3;
+}
